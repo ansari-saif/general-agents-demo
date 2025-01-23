@@ -46,7 +46,7 @@ export default function Home() {
             </p>
 
             <div className="container mx-auto px-4">
-              <h2 className="text-4xl font-bold mb-8 text-center">Sign Up</h2>
+              <h2 className="text-4xl font-bold mb-8 text-center">Join Infinex</h2>
               <form
                 onSubmit={handleSubmit}
                 className="max-w-md mx-auto bg-card p-8 rounded-lg"
